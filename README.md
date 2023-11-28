@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=180&text=My%20Diary%20Web%20Service&animation=fadeIn&fontColor=ee5858&fontSize=60" />
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 나의 일상을 관리하는 웹 서비스 </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 나의 일상을 관리하는 웹서비스 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> <li> 나의 일상을 저장하고 관리하는 웹 서비스 </div> 
     </div>
     <div align= "center">
